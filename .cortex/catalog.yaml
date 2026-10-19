@@ -1,0 +1,12 @@
+openapi: "3.0.0"
+info:
+  title: "fulfillment-exceptions"
+  x-cortex-tag: "fulfillment-exceptions"
+  x-cortex-description: "Exception handling and manual intervention queue"
+  x-cortex-owners:
+    - type: group
+      name: "Fulfillment Engineering Team"
+  x-cortex-custom-metadata:
+    apm_id: "apm0001401"
+    apm_name: "Order Fulfillment Platform"
+    cost_center: "CC-4410"
